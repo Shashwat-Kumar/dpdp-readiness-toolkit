@@ -35,7 +35,7 @@ python report/build_dpdp.py
 
 ## Related writing
 
-- [DPDP Act 2023 and Rules 2025: a practical readiness guide](https://shashwat-kumar.github.io/shashwat-analytics/insights/dpdp-act-readiness-guide.html)
-- [Faster cars need better brakes](https://shashwat-kumar.github.io/shashwat-analytics/essays/brakes.html)
+- [DPDP Act 2023 and Rules 2025: a practical readiness guide](https://readsigil.com/insights/dpdp-act-readiness-guide.html)
+- [Faster cars need better brakes](https://readsigil.com/essays/brakes.html)
 
 MIT licensed.
