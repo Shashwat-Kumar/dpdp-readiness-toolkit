@@ -1,0 +1,6 @@
+activity,system,data_categories,child_data,notice_given,consent_recorded,withdrawal_easy,purpose_defined,retention_defined,processor_contract,security_controls,breach_process,rights_channel,children_check
+Customer signup (SYNTHETIC),Web app + Postgres,"name,email,phone",n,y,y,n,y,n,y,y,n,n,
+Marketing WhatsApp campaigns (SYNTHETIC),WhatsApp BSP vendor,"phone,name",n,n,n,n,y,n,n,y,n,n,
+Payroll (SYNTHETIC),HRMS SaaS,"PAN,bank a/c,salary",n,y,na,na,y,y,y,y,n,y,
+Student learning app (SYNTHETIC),Mobile app,"name,age,progress",y,y,y,n,y,n,y,n,n,n,n
+Support tickets (SYNTHETIC),Helpdesk SaaS,"name,email,issue text",n,y,n,n,y,n,n,y,n,y,
